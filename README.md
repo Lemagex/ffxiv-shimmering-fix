@@ -1,5 +1,5 @@
 # ffxiv-shimmering-fix
-This details how to reduce the "Band of shimmer" you sometimes see when walking on sharpened texture surfaces on FFXIV, which also sometimes lowers FPS. **NOTE: This fix only works for NVidia cards** I'm sorry.
+This details how to reduce the "Band of shimmer" you sometimes see when walking on sharpened texture surfaces on FFXIV, which also sometimes lowers FPS. **NOTE: This fix only works for NVidia cards** confirmed the issue is not present on Radeon cards, unsure of intel.
 
 # **Credit**
 [u/ZabaZuu](https://www.reddit.com/user/ZabaZuu/) [posted a fix for this in the past](https://www.reddit.com/r/ffxiv/comments/47dz75/awful_edgeshimmering_fix_performance_improvement/)
